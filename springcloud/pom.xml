@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.cn</groupId>
+    <artifactId>spring-cloud</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <modules>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-zipkin</module>
+        <module>spring-eurka-user-service</module>
+        <module>spring-eurka-user-ui</module>
+        <module>spring-eurka-server</module>
+        <module>spring-cloud-config</module>
+    </modules>
+</project>

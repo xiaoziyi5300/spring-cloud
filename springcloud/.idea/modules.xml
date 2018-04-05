@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eurka-server/spring-eurka-server.iml" filepath="$PROJECT_DIR$/spring-eurka-server/spring-eurka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eurka-user-service/spring-eurka-user-service.iml" filepath="$PROJECT_DIR$/spring-eurka-user-service/spring-eurka-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eurka-user-ui/spring-eurka-user-ui.iml" filepath="$PROJECT_DIR$/spring-eurka-user-ui/spring-eurka-user-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
