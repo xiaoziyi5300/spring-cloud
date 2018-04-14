@@ -16,5 +16,7 @@
         <module>spring-eurka-user-ui</module>
         <module>spring-eurka-server</module>
         <module>spring-cloud-config</module>
+        <module>spring-cloud-mq</module>
+        <module>spring-cloud-config-client</module>
     </modules>
 </project>
