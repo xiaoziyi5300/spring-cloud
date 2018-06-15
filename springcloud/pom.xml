@@ -18,5 +18,6 @@
         <module>spring-cloud-config</module>
         <module>spring-cloud-mq</module>
         <module>spring-cloud-config-client</module>
+        <module>spring-cloud-server-slave</module>
     </modules>
 </project>
