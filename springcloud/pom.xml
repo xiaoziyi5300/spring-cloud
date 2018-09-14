@@ -19,5 +19,6 @@
         <module>spring-cloud-mq</module>
         <module>spring-cloud-config-client</module>
         <module>spring-cloud-server-slave</module>
+        <module>spring-cloud-consul-client</module>
     </modules>
 </project>

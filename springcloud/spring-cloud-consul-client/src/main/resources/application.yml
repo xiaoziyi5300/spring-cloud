@@ -1,0 +1,17 @@
+server:
+  port: 9056
+  sessionTimeout: 600
+  contextPath: /
+
+spring:
+  application:
+    name: spring-cloud-consul-client
+  cloud:
+    consul:
+      host: http://192.168.25.45
+      port: 8500
+      discovery:
+        healthCheckPath: ${management.contextPath}/health
+        healthCheckInterval: 10s
+        instance-id: consul-miya
+
