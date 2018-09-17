@@ -20,5 +20,6 @@
         <module>spring-cloud-config-client</module>
         <module>spring-cloud-server-slave</module>
         <module>spring-cloud-consul-client</module>
+        <module>spring-cloud-spring-security</module>
     </modules>
 </project>
