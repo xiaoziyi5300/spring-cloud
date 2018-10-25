@@ -21,5 +21,6 @@
         <module>spring-cloud-server-slave</module>
         <module>spring-cloud-consul-client</module>
         <module>spring-cloud-spring-security</module>
+        <module>spring-cloud-nacos</module>
     </modules>
 </project>
