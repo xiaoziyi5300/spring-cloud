@@ -12,11 +12,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SpringCloudConfigController {
 
-    @Value("${foo}")
-    private String foo;//获取config 服务获取的配置的值
 
     @RequestMapping("/test")
     public String test() {
-        return foo;
+        return "";
     }
 }
