@@ -20,6 +20,10 @@
         <option value="$PROJECT_DIR$/spring-eurka-user-ui/pom.xml" />
         <option value="$PROJECT_DIR$/spring-eurka-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/srping-boot-admin/pom.xml" />
       </list>
     </option>
   </component>

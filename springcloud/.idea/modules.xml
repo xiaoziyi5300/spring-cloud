@@ -3,12 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-client/spring-cloud-consul-client.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-client/spring-cloud-consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-mq/spring-cloud-mq.iml" filepath="$PROJECT_DIR$/spring-cloud-mq/spring-cloud-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-nacos/spring-cloud-nacos.iml" filepath="$PROJECT_DIR$/spring-cloud-nacos/spring-cloud-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-server-slave/spring-cloud-server-slave.iml" filepath="$PROJECT_DIR$/spring-cloud-server-slave/spring-cloud-server-slave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-spring-security/spring-cloud-spring-security.iml" filepath="$PROJECT_DIR$/spring-cloud-spring-security/spring-cloud-spring-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-eurka-server/spring-eurka-server.iml" filepath="$PROJECT_DIR$/spring-eurka-server/spring-eurka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-eurka-user-service/spring-eurka-user-service.iml" filepath="$PROJECT_DIR$/spring-eurka-user-service/spring-eurka-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-eurka-user-ui/spring-eurka-user-ui.iml" filepath="$PROJECT_DIR$/spring-eurka-user-ui/spring-eurka-user-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srping-boot-admin/srping-boot-admin.iml" filepath="$PROJECT_DIR$/srping-boot-admin/srping-boot-admin.iml" />
     </modules>
   </component>
 </project>

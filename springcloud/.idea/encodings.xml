@@ -2,10 +2,17 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-server-slave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-spring-security" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-eurka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-eurka-user-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-eurka-user-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/srping-boot-admin" charset="UTF-8" />
   </component>
 </project>

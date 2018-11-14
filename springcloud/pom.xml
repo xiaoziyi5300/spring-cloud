@@ -22,5 +22,6 @@
         <module>spring-cloud-consul-client</module>
         <module>spring-cloud-spring-security</module>
         <module>spring-cloud-nacos</module>
+        <module>srping-boot-admin</module>
     </modules>
 </project>
