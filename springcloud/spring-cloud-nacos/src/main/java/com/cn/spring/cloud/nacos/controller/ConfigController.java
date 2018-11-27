@@ -15,10 +15,10 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
  * @Description:
  */
 @Controller
-@RequestMapping("config")
+@RequestMapping("/config")
 public class ConfigController {
 
-    @Value("${port:4040}")
+    @Value("${content:4040}")
     private String useLocalCache;
 
     public static void main(String[] args) {

@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date: 2018/10/10 0010 10:31
  */
 @SpringBootApplication
-@NacosPropertySource(dataId = "example", groupId = "", autoRefreshed = true)
+@NacosPropertySource(dataId = "example", groupId = "demoGroup", autoRefreshed = true)
 public class SpringCloudNacosApplication {
 
     public static void main(String[] args) {
