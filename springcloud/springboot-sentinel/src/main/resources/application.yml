@@ -1,0 +1,10 @@
+spring:
+ application:
+   name: springboot-sentinel
+ cloud:
+  sentinel:
+    transport:
+      dashboard: localhost:8080
+server:
+  port: 8888
+    #eager: true
